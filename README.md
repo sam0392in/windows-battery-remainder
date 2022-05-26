@@ -1,6 +1,5 @@
 # windows-battery-remainder
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/sam0392in/windows-battery-remainder)](https://goreportcard.com/report/github.com/sam0392in/windows-battery-remainder)
 
 ![alt text](./img/alert.png?raw=true)
 
