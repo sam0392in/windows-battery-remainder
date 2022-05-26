@@ -1,7 +1,7 @@
 package main
 
 import (
-	"bi/internal/battery"
+	"wbr/internal/battery"
 )
 
 func main() {
